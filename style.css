@@ -30,9 +30,8 @@ section{
     background-color: #252525;
     width: 200px;
     height: 200px;
-    margin: 2%;
+    margin: 2% auto;
     border-radius: 16px;
-    justify-content: space-around;
 }
 
 footer{
