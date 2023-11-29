@@ -24,6 +24,7 @@ a{
 
 section{
     min-height: 80vh;
+    justify-content: space-around;
 }
 
 .box{
