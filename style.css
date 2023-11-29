@@ -7,11 +7,15 @@ header{
     background-color: #252525;
     color: #ffffff;
     text-align: center;
-    height: 100px;
+    height: 80px;
     padding-top: 2%;
     border-bottom: 4px solid #4BD2FA;
 }
 
 nav{
-    
+
+}
+
+a{
+    color:#4BD2FA;
 }
