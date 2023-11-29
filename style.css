@@ -23,6 +23,7 @@ a{
 }
 
 section{
+    width: 80%;
     min-height: 80vh;
     display: flex;
     justify-content: space-around;
