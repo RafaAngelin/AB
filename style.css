@@ -24,13 +24,15 @@ a{
 
 section{
     min-height: 80vh;
+    display: flex;
+    justify-content: space-around;
 }
 
 .box{
     background-color: #252525;
     width: 200px;
     height: 200px;
-    margin: 2% auto;
+    margin: 2%;
     border-radius: 16px;
 }
 
