@@ -13,10 +13,10 @@ header{
 }
 
 nav{
-
+    text-align: center;
 }
 
 a{
     color:#4BD2FA;
-    margin-left: 2%;
+    margin: 1% 2%;
 }
