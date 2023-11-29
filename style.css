@@ -26,6 +26,11 @@ section{
     min-height: 80vh;
 }
 
+.box{
+    width: 30%;
+    height: 10%;
+}
+
 footer{
     background-color: #000000;
     color: #858585;
